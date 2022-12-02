@@ -1,6 +1,8 @@
 body{
     background-color: #ebebeb;
     font-family: 'Roboto', sans-serif;
+    width:400px;
+    
    
 }
 header nav{
@@ -8,6 +10,9 @@ header nav{
 }
 header{
     background-color:#EAC926;
+}
+header p{
+    text-align: center;
 }
 header ul li a{
     text-decoration: none;
@@ -27,11 +32,13 @@ header ul li{
     margin: 10px 0px 10px 0px;
     padding: 10px;
 }
+main section article{
+    background-color: white;
+}
 
 .titular{
     font-size: 24px;
 }
-
 .precios{
     font-size: 18px;
 }
@@ -41,9 +48,18 @@ header ul li{
 p.parrafo-footer{
     text-align: center;
 }
-h3.h3-footer{
+footer h3{
     text-align: center;
 }
+footer div{
+    text-align: center;
+}
+footer div i{
+    color: #1259c3; 
+    
+}
+
 .pie-center{
     text-align: center;
+    font-weight: bold;
 }
