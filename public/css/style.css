@@ -1,0 +1,49 @@
+body{
+    background-color: #ebebeb;
+    font-family: 'Roboto', sans-serif;
+   
+}
+header nav{
+    font-size: 12px;
+}
+header{
+    background-color:#EAC926;
+}
+header ul li a{
+    text-decoration: none;
+    color: black; 
+}
+header ul li{
+    list-style: none;
+}
+
+.burger-menu i{
+    background-color: #1259c3;
+    border-radius: 3px;
+    color: white;
+    font-size: 30px;
+    height: 30px;
+    width: 30px;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+}
+
+.titular{
+    font-size: 24px;
+}
+
+.precios{
+    font-size: 18px;
+}
+.descuentos{
+    font-size: 16px;
+}
+p.parrafo-footer{
+    text-align: center;
+}
+h3.h3-footer{
+    text-align: center;
+}
+.pie-center{
+    text-align: center;
+}
