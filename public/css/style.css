@@ -21,7 +21,9 @@ header ul li a{
 header ul li{
     list-style: none;
 }
-
+header div i{
+    text-align: center;
+}
 .burger-menu i{
     background-color: #1259c3;
     border-radius: 3px;
@@ -29,11 +31,15 @@ header ul li{
     font-size: 30px;
     height: 30px;
     width: 30px;
-    margin: 10px 0px 10px 0px;
+    margin: 10px 0px 10px 40%;
     padding: 10px;
+    
 }
 main section article{
     background-color: white;
+    border-radius: 10px;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
 }
 
 .titular{
@@ -56,10 +62,12 @@ footer div{
 }
 footer div i{
     color: #1259c3; 
-    
+    font-size: 2em;
 }
 
 .pie-center{
     text-align: center;
     font-weight: bold;
+    font-size: 13px;
 }
+
